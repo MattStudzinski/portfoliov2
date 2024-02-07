@@ -19,7 +19,11 @@ const Hero = () => {
             I develop full stack applications <br className='sm:block hidden'/> using ReactJS
           </p>
         </div>
+
+        
       </div>
+
+      <ComputersCanvas />
     </section>
   )
 }
